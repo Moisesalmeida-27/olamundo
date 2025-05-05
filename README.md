@@ -1,2 +1,4 @@
-# olamundo
-repositorio curso em video
+# olá, mundo
+repositorio curso em video,
+
+primeiro repositorio criado com git remote.
